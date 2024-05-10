@@ -78,9 +78,9 @@ Verify the block contents and hashes in the Streamlit dropdown menu. Take a scre
 
 Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the README.md file for your homework repository.
 
-![Screenshot](http://localhost:8884/lab/tree/Challenge18/image/Screenshot%202024-05-07%20at%2010.00.20%E2%80%AFPM.png)
+![Screenshot](https://drive.google.com/file/d/14FlV1ofCqybofphgsUDXkyX9G8Wh9z8_/view?usp=sharing)
 
-![Screenshot](http://localhost:8884/lab/tree/Challenge18/image/Screenshot%202024-05-09%20at%2011.13.08%E2%80%AFPM.png)
+![Screenshot](https://drive.google.com/file/d/1bU-wiOqPJV3_o339etmRGZ-REjqEev6g/view?usp=sharing)
 
 
 
